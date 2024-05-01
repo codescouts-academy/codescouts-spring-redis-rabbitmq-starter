@@ -19,7 +19,9 @@ In this repo you can see 3 main folders.
 
 At root of this project run this command to start Redis and RabbitMQ
 
-- `docker-compose up`
+```
+docker-compose up
+```
 
 ## Start 🧩
 
