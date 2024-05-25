@@ -6,6 +6,9 @@ public class Test {
         this.value = value;
     }
 
+    public Test() {
+    }
+
     public Long id;
     public String value;
 }
